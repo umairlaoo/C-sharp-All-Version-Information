@@ -1,0 +1,12 @@
+Sure, here are the major features of C# 1.2:
+
+* **Automatic disposal of IDisposable objects in foreach loops:** In C# 1.0, the code generated in a foreach loop did not call the Dispose method on IDisposable objects. This could lead to memory leaks if the objects were not manually disposed of. In C# 1.2, the code generated in a foreach loop now calls the Dispose method on IDisposable objects, if the objects implement that interface.
+* **Unicode support:** C# 1.2 added support for Unicode characters. This allowed C# programs to be written in any language that uses Unicode characters.
+* **Other minor improvements:** C# 1.2 also included a number of other minor improvements, such as:
+    * Support for the `using` statement to automatically dispose of IDisposable objects.
+    * Improved error messages.
+    * Support for the `dynamic` keyword to create dynamic objects.
+
+These are just some of the major features of C# 1.2. C# has continued to evolve over the years, and it now has many more features. However, these are the basic features that make C# a powerful and versatile programming language.
+
+I hope this helps!
