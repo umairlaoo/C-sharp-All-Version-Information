@@ -1,0 +1,13 @@
+Sure, here are some of the major features of C# 9.0:
+
+* **Records:** Records are a new type of class that are designed to be lightweight and easy to use. Records are immutable, which means that their values cannot be changed after they are created. This makes them ideal for representing data that does not need to be changed, such as employee records or product information.
+* **Init only setters:** Init only setters are a new type of setter that can only be used to initialize a property during the construction of an object. This can help to prevent errors caused by accidentally changing the value of a property after it has been initialized.
+* **Top-level statements:** Top-level statements are statements that can be placed outside of any class or method. This can be useful for declaring constants, variables, and functions that are used throughout your program.
+* **Pattern matching enhancements:** Pattern matching has been enhanced with new features, such as the ability to match against ranges of values and the ability to match against multiple patterns in a single expression.
+* **Performance and interop:** C# 9.0 includes a number of performance improvements, such as the ability to inline generic methods and the ability to use native-sized integers. C# 9.0 also includes new features for interoperability with other languages, such as the ability to call C++ functions from C# code.
+
+These are just some of the major features of C# 9.0. C# has continued to evolve over the years, and it now has many more features. However, these are the basic features that make C# a powerful and versatile programming language.
+
+I hope this helps!
+
+Is there anything else I can help you with?

@@ -1,0 +1,16 @@
+Sure, here are some of the major features of C# 6.0:
+
+* **Null-conditional operator (??):** The null-conditional operator allows you to safely access a property or variable without having to check for null first.
+* **Using static:** The using static statement allows you to access static members of a class without having to qualify them with the class name.
+* **Dictionary initializers:** Dictionary initializers allow you to initialize a dictionary in a more concise way.
+* **Nameof expression (nameof):** The nameof expression allows you to get the name of a variable, method, or other programming element.
+* **Exception filters:** Exception filters allow you to specify which exceptions you want to handle in a catch block.
+* **Await in catch and finally blocks:** You can now await in catch and finally blocks.
+* **Expression-bodied methods:** Expression-bodied methods allow you to define the body of a method as an expression.
+* **String interpolation:** String interpolation allows you to insert expressions into strings.
+
+These are just some of the major features of C# 6.0. C# has continued to evolve over the years, and it now has many more features. However, these are the basic features that make C# a powerful and versatile programming language.
+
+I hope this helps!
+
+Is there anything else I can help you with?

@@ -1,0 +1,13 @@
+Sure, here are some of the major features of C# 12.0:
+
+* **Primary constructors:** Primary constructors are now available for non-record classes and structs. This allows you to add parameters to the class or struct declaration itself, and use those parameters to initialize the fields of the class or struct.
+* **Optional parameters in lambda expressions:** You can now specify optional parameters in lambda expressions. This can make your code more concise and flexible.
+* **Alias any type:** You can now use the `alias` keyword to alias any type. This can be useful for creating semantic aliases for types, or for working with types that are not yet defined.
+* **Inline arrays:** You can now inline arrays in expressions. This can make your code more concise and efficient.
+* **Interceptors:** Interceptors are a new feature that allows you to intercept and modify the execution of code. This can be useful for debugging, tracing, and performance optimization.
+
+These are just some of the major features of C# 12.0. C# has continued to evolve over the years, and it now has many more features. However, these are the basic features that make C# a powerful and versatile programming language.
+
+I hope this helps!
+
+Is there anything else I can help you with?
