@@ -1,0 +1,24 @@
+As of August 2023, there are 11 released versions of C#:
+
+* C# 1.0 (released November 2002)
+* C# 1.2 (released March 2003)
+* C# 2.0 (released November 2005)
+* C# 3.0 (released November 2007)
+* C# 4.0 (released April 2010)
+* C# 5.0 (released August 2012)
+* C# 6.0 (released June 2015)
+* C# 7.0 (released November 2017)
+* C# 8.0 (released November 2019)
+* C# 9.0 (released November 2020)
+* C# 10.0 (released November 2021)
+* C# 11.0 (released November 2022)
+
+The current release candidate is C# 12.0, which is scheduled to be released in November 2023.
+
+Each new version of C# introduces new features and improvements to the language. For example, C# 7.0 introduced generic math, C# 8.0 introduced readonly members, and C# 9.0 introduced record types.
+
+The .NET Framework and .NET Core are the two main platforms that support C#. The .NET Framework is a proprietary platform developed by Microsoft, while .NET Core is an open-source platform that is supported by Microsoft and other companies.
+
+The latest version of C# is supported by the latest versions of the .NET Framework and .NET Core. However, older versions of C# may be supported by older versions of the .NET Framework and .NET Core.
+
+The specific version of C# that you use will depend on your needs and the platform that you are targeting. If you are not sure which version to use, you can consult the C# documentation or ask a more experienced developer.
