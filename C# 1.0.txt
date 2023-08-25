@@ -1,0 +1,17 @@
+Sure, here are the major features of C# 1.0:
+
+* Object-oriented programming: C# is an object-oriented programming language, which means that it uses objects to represent data and behavior. Objects are created from classes, which are blueprints for creating objects.
+* Garbage collection: C# uses garbage collection to automatically manage memory allocation and deallocation. This frees the programmer from having to worry about memory management, which can help to prevent errors.
+* Static typing: C# is a statically typed language, which means that the types of variables and expressions are checked at compile time. This helps to prevent errors and makes code more reliable.
+* Strong typing: C# is a strongly typed language, which means that the types of variables and expressions must be compatible. This helps to prevent errors and makes code more readable.
+* Exception handling: C# provides exception handling to deal with errors that occur during program execution. This helps to prevent errors from crashing the program.
+* Generics: C# generics allow you to create code that can work with different types of data. This makes code more reusable and flexible.
+* Namespaces: C# namespaces are used to organize code into logical groups. This makes code more readable and maintainable.
+* Attributes: C# attributes are used to attach metadata to code. This metadata can be used by other parts of the program, such as the debugger or the compiler.
+* Events: C# events allow objects to communicate with each other. This makes code more modular and easier to maintain.
+* Delegates: C# delegates are used to represent references to methods. This makes code more concise and easier to read.
+* Lambda expressions: C# lambda expressions are anonymous functions that can be used to simplify code.
+
+These are just some of the major features of C# 1.0. C# has continued to evolve over the years, and it now has many more features. However, these are the basic features that make C# a powerful and versatile programming language.
+
+I hope this helps!
